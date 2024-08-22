@@ -18,10 +18,14 @@ Welcome to The WebSocket Chat App. This App is designed for multiple users to be
    In the first terminal cd into the M15-L2-Websockets folder and then use flask run to begin running the Backend Server
 ```sh
     cd M15-L2-Websockets
+```
+```sh
     flask run
 ```
   In the second terminal cd into the web-socket-chat react application and then use npm start to begin running the application
 ```sh
     cd web-socket-chat
+```
+```sh
     npm start
 ```
